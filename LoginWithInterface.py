@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 
 def exit(): 
-    nova_janela.destroy()
+    nova_janela.destro
 
 
 def cadastro_usuario():
